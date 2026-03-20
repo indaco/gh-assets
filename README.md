@@ -10,16 +10,20 @@ The purpose of this repo is to:
 
 ## 📁 Project Assets
 
-| Project    | Folder      | Description                                        |
-| ---------- | ----------- | -------------------------------------------------- |
-| [tempo]    | `/tempo`    | CLI for scaffolding and managing Templ components. |
-| [goaster]  | `/goaster`  | Toast notification component for Templ apps.       |
-| [tabber]   | `/tabber`   | Themeable and accessible tab component for Go.     |
-| [gropdown] | `/gropdown` | Themeable and accessible dropdown for Go.          |
+| Project    | Folder      | Description                                                 |
+| ---------- | ----------- | ----------------------------------------------------------- |
+| [goaster]  | `/goaster`  | Toast notification component for Templ apps.                |
+| [gropdown] | `/gropdown` | Themeable and accessible dropdown for Go.                   |
+| [herald]   | `/herald`   | HTML-inspired typography for terminal UIs in Go .           |
+| [sley]     | `/sley`     | CLI for semantic versioning using a simple .version file. . |
+| [tabber]   | `/tabber`   | Themeable and accessible tab component for Go.              |
+| [tempo]    | `/tempo`    | CLI for scaffolding and managing Templ components.          |
 
 <!-- Reference links -->
 
-[tempo]: https://github.com/indaco/tempo
 [goaster]: https://github.com/indaco/goaster
-[tabber]: https://github.com/indaco/tabber
 [gropdown]: https://github.com/indaco/gropdown
+[herald]: https://github.com/indaco/herald
+[sley]: https://github.com/indaco/sley
+[tabber]: https://github.com/indaco/tabber
+[tempo]: https://github.com/indaco/tempo
