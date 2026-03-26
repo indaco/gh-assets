@@ -10,15 +10,15 @@ The purpose of this repo is to:
 
 ## 📁 Project Assets
 
-| Project    | Folder      | Description                                               |
-| ---------- | ----------- | --------------------------------------------------------- |
-| [goaster]  | `/goaster`  | Toast notification component for Templ apps.              |
-| [gropdown] | `/gropdown` | Themeable and accessible dropdown for Go.                 |
-| [herald]   | `/herald`   | HTML-inspired typography for terminal UIs in Go.          |
-| [prompti]  | `/prompti`  | Interactive prompt components for Go based CLI.           |
-| [sley]     | `/sley`     | CLI for semantic versioning using a simple .version file. |
-| [tabber]   | `/tabber`   | Themeable and accessible tab component for Go.            |
-| [tempo]    | `/tempo`    | CLI for scaffolding and managing Templ components.        |
+| Project    | Folder      | Description                                                        |
+| ---------- | ----------- | ------------------------------------------------------------------ |
+| [goaster]  | `/goaster`  | Toast notification component for Templ apps.                       |
+| [gropdown] | `/gropdown` | Themeable and accessible dropdown for Go.                          |
+| [herald]   | `/herald`   | HTML-inspired typography for terminal UIs in Go.                   |
+| [prompti]  | `/prompti`  | Interactive TUI prompts for Go CLI applications, powered by Charm. |
+| [sley]     | `/sley`     | CLI for semantic versioning using a simple .version file.          |
+| [tabber]   | `/tabber`   | Themeable and accessible tab component for Go.                     |
+| [tempo]    | `/tempo`    | CLI for scaffolding and managing Templ components.                 |
 
 <!-- Reference links -->
 
